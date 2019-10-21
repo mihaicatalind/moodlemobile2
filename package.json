@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "edrept",
   "version": "3.7.1",
-  "description": "The official app for Moodle.",
+  "description": "The official app for e-drept.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "e-Drept.com",
+    "email": "mobile@e-drept.com"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
